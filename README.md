@@ -7,7 +7,7 @@
 4. Create a file called ```index.js```
 5. run ```npm init -y```
 6. run ```npm install axios```
-7. require ```axios``` in both files.
+7. require ```axios``` in ```index.js```.
 
 ## Instructions
 ### character.js
